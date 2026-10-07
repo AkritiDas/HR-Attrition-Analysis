@@ -1,0 +1,278 @@
+{
+    "overall_summary": {
+        "Total Employees": 1470,
+        "Employees Who Left": 570,
+        "Employees Retained": 900,
+        "Overall Attrition Rate (%)": 38.78
+    },
+    "department_analysis": [
+        {
+            "Department": "Research & Development",
+            "Total_Employees": 954,
+            "Attrition_Count": 381,
+            "Retained_Count": 573,
+            "Attrition_Rate_%": 39.94,
+            "Share_of_Total_Attrition_%": 66.84
+        },
+        {
+            "Department": "Human Resources",
+            "Total_Employees": 97,
+            "Attrition_Count": 38,
+            "Retained_Count": 59,
+            "Attrition_Rate_%": 39.18,
+            "Share_of_Total_Attrition_%": 6.67
+        },
+        {
+            "Department": "Sales",
+            "Total_Employees": 419,
+            "Attrition_Count": 151,
+            "Retained_Count": 268,
+            "Attrition_Rate_%": 36.04,
+            "Share_of_Total_Attrition_%": 26.49
+        }
+    ],
+    "salary_analysis": [
+        {
+            "Salary_Range": "<$3,000",
+            "Total_Employees": 199,
+            "Attrition_Count": 137,
+            "Retained_Count": 62,
+            "Attrition_Rate_%": 68.84,
+            "Share_of_Total_Attrition_%": 24.04
+        },
+        {
+            "Salary_Range": "$3,000-$5,000",
+            "Total_Employees": 441,
+            "Attrition_Count": 226,
+            "Retained_Count": 215,
+            "Attrition_Rate_%": 51.25,
+            "Share_of_Total_Attrition_%": 39.65
+        },
+        {
+            "Salary_Range": "$5,000-$10,000",
+            "Total_Employees": 611,
+            "Attrition_Count": 182,
+            "Retained_Count": 429,
+            "Attrition_Rate_%": 29.79,
+            "Share_of_Total_Attrition_%": 31.93
+        },
+        {
+            "Salary_Range": "$10,000-$15,000",
+            "Total_Employees": 134,
+            "Attrition_Count": 19,
+            "Retained_Count": 115,
+            "Attrition_Rate_%": 14.18,
+            "Share_of_Total_Attrition_%": 3.33
+        },
+        {
+            "Salary_Range": "$15,000+",
+            "Total_Employees": 85,
+            "Attrition_Count": 6,
+            "Retained_Count": 79,
+            "Attrition_Rate_%": 7.06,
+            "Share_of_Total_Attrition_%": 1.05
+        }
+    ],
+    "tenure_analysis": [
+        {
+            "Tenure_Group": "0-2 Years",
+            "Total_Employees": 873,
+            "Attrition_Count": 447,
+            "Retained_Count": 426,
+            "Attrition_Rate_%": 51.2,
+            "Share_of_Total_Attrition_%": 78.42
+        },
+        {
+            "Tenure_Group": "3-5 Years",
+            "Total_Employees": 389,
+            "Attrition_Count": 89,
+            "Retained_Count": 300,
+            "Attrition_Rate_%": 22.88,
+            "Share_of_Total_Attrition_%": 15.61
+        },
+        {
+            "Tenure_Group": "6-10 Years",
+            "Total_Employees": 177,
+            "Attrition_Count": 30,
+            "Retained_Count": 147,
+            "Attrition_Rate_%": 16.95,
+            "Share_of_Total_Attrition_%": 5.26
+        },
+        {
+            "Tenure_Group": "10+ Years",
+            "Total_Employees": 31,
+            "Attrition_Count": 4,
+            "Retained_Count": 27,
+            "Attrition_Rate_%": 12.9,
+            "Share_of_Total_Attrition_%": 0.7
+        }
+    ],
+    "job_role_analysis": [
+        {
+            "JobRole": "Laboratory Technician",
+            "Total_Employees": 343,
+            "Attrition_Count": 217,
+            "Retained_Count": 126,
+            "Attrition_Rate_%": 63.27,
+            "Share_of_Total_Attrition_%": 38.07
+        },
+        {
+            "JobRole": "Sales Representative",
+            "Total_Employees": 112,
+            "Attrition_Count": 62,
+            "Retained_Count": 50,
+            "Attrition_Rate_%": 55.36,
+            "Share_of_Total_Attrition_%": 10.88
+        },
+        {
+            "JobRole": "Human Resources",
+            "Total_Employees": 79,
+            "Attrition_Count": 38,
+            "Retained_Count": 41,
+            "Attrition_Rate_%": 48.1,
+            "Share_of_Total_Attrition_%": 6.67
+        },
+        {
+            "JobRole": "Research Scientist",
+            "Total_Employees": 303,
+            "Attrition_Count": 100,
+            "Retained_Count": 203,
+            "Attrition_Rate_%": 33.0,
+            "Share_of_Total_Attrition_%": 17.54
+        },
+        {
+            "JobRole": "Sales Executive",
+            "Total_Employees": 282,
+            "Attrition_Count": 85,
+            "Retained_Count": 197,
+            "Attrition_Rate_%": 30.14,
+            "Share_of_Total_Attrition_%": 14.91
+        },
+        {
+            "JobRole": "Healthcare Representative",
+            "Total_Employees": 100,
+            "Attrition_Count": 26,
+            "Retained_Count": 74,
+            "Attrition_Rate_%": 26.0,
+            "Share_of_Total_Attrition_%": 4.56
+        },
+        {
+            "JobRole": "Manufacturing Director",
+            "Total_Employees": 145,
+            "Attrition_Count": 35,
+            "Retained_Count": 110,
+            "Attrition_Rate_%": 24.14,
+            "Share_of_Total_Attrition_%": 6.14
+        },
+        {
+            "JobRole": "Manager",
+            "Total_Employees": 73,
+            "Attrition_Count": 6,
+            "Retained_Count": 67,
+            "Attrition_Rate_%": 8.22,
+            "Share_of_Total_Attrition_%": 1.05
+        },
+        {
+            "JobRole": "Research Director",
+            "Total_Employees": 33,
+            "Attrition_Count": 1,
+            "Retained_Count": 32,
+            "Attrition_Rate_%": 3.03,
+            "Share_of_Total_Attrition_%": 0.18
+        }
+    ],
+    "age_analysis": [
+        {
+            "Age_Group": "18-25",
+            "Total_Employees": 274,
+            "Attrition_Count": 167,
+            "Retained_Count": 107,
+            "Attrition_Rate_%": 60.95,
+            "Share_of_Total_Attrition_%": 29.3
+        },
+        {
+            "Age_Group": "36-45",
+            "Total_Employees": 354,
+            "Attrition_Count": 123,
+            "Retained_Count": 231,
+            "Attrition_Rate_%": 34.75,
+            "Share_of_Total_Attrition_%": 21.58
+        },
+        {
+            "Age_Group": "46-55",
+            "Total_Employees": 369,
+            "Attrition_Count": 125,
+            "Retained_Count": 244,
+            "Attrition_Rate_%": 33.88,
+            "Share_of_Total_Attrition_%": 21.93
+        },
+        {
+            "Age_Group": "26-35",
+            "Total_Employees": 317,
+            "Attrition_Count": 107,
+            "Retained_Count": 210,
+            "Attrition_Rate_%": 33.75,
+            "Share_of_Total_Attrition_%": 18.77
+        },
+        {
+            "Age_Group": "55+",
+            "Total_Employees": 156,
+            "Attrition_Count": 48,
+            "Retained_Count": 108,
+            "Attrition_Rate_%": 30.77,
+            "Share_of_Total_Attrition_%": 8.42
+        }
+    ],
+    "overtime_analysis": [
+        {
+            "Overtime": "Yes",
+            "Total_Employees": 412,
+            "Attrition_Count": 223,
+            "Retained_Count": 189,
+            "Attrition_Rate_%": 54.13,
+            "Share_of_Total_Attrition_%": 39.12
+        },
+        {
+            "Overtime": "No",
+            "Total_Employees": 1058,
+            "Attrition_Count": 347,
+            "Retained_Count": 711,
+            "Attrition_Rate_%": 32.8,
+            "Share_of_Total_Attrition_%": 60.88
+        }
+    ],
+    "satisfaction_analysis": [
+        {
+            "Satisfaction_Label": "1-Low",
+            "Total_Employees": 269,
+            "Attrition_Count": 150,
+            "Retained_Count": 119,
+            "Attrition_Rate_%": 55.76,
+            "Share_of_Total_Attrition_%": 26.32
+        },
+        {
+            "Satisfaction_Label": "2-Medium",
+            "Total_Employees": 265,
+            "Attrition_Count": 129,
+            "Retained_Count": 136,
+            "Attrition_Rate_%": 48.68,
+            "Share_of_Total_Attrition_%": 22.63
+        },
+        {
+            "Satisfaction_Label": "3-High",
+            "Total_Employees": 443,
+            "Attrition_Count": 175,
+            "Retained_Count": 268,
+            "Attrition_Rate_%": 39.5,
+            "Share_of_Total_Attrition_%": 30.7
+        },
+        {
+            "Satisfaction_Label": "4-Very High",
+            "Total_Employees": 493,
+            "Attrition_Count": 116,
+            "Retained_Count": 377,
+            "Attrition_Rate_%": 23.53,
+            "Share_of_Total_Attrition_%": 20.35
+        }
+    ]
+}
